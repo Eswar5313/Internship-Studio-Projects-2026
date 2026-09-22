@@ -1,0 +1,10 @@
+time,section,footage_action,on_screen_text,techniques
+0:00–0:03,HOOK,"Whip-pan into a slow-mo kulhad pour, steam rising; footage-into-text intro: the pour shows through the words","""The best Rs 20 you'll spend today""","Footage-into-text (track matte), speed ramp 40%→100%, beat 1 hit"
+0:03–0:07,Setup,"Wide of the café front at dusk, sign lights up; quick 2-cut to hands wiping the counter","""Kulhad & Co. · Ghaziabad""","Cut on beat, pop-up keyframed title, Lumetri LUT applied"
+0:07–0:13,Product 1,"Close-up chai boiling, ladle lift, milk swirl; match-cut to kulhad filling","""Masala chai, brewed 12 min""","3 cuts on beat, J-cut audio, sound effect (sizzle)"
+0:13–0:19,Product 2,"Bun-maska on tawa, butter melting; top-down plating","""Bun maska. Enough said.""","Tracked caption follows the plate (Mask & Track), adjustment layer glow"
+0:19–0:25,Vibe,"Customers laughing, phone-in-hand, fairy lights bokeh, rack focus","""Come for the chai, stay for the gossip""","Nested sequence (3 clips + captions), light-leak transition preset"
+0:25–0:31,Photo moment,"4 stills in a fast montage: menu board, kulhad stack, chai cart, owner smiling","""Since 2019""","Photo montage with scale keyframes, drum-roll SFX, Mr Horse/Motion Bro preset"
+0:31–0:37,Price & hours,Motion banner slides in over a wide shot,"""Chai Rs 20 · Bun maska Rs 40 · 7 am–11 pm""","Motion banner (shapes + type tool), text-behind-subject mask on the cup"
+0:37–0:43,Payoff,"Slow push on a kulhad being handed to camera, steam; velocity edit on the last 3 beats","""Your table is waiting""","Speed ramp, seamless zoom transition, colour before/after flash"
+0:43–0:48,End card / loop,"Logo end card, then a 1-second pour that matches frame 1 for a clean loop","""@kulhadandco · Save this""","Animated end card, loop-matched last frame, audio fade to beat 1"
